@@ -12,7 +12,7 @@ Processador: Intel(R) Core(TM) i5-2320 CPU @ 3.00GHz, 4 Núcleos, 4 Threads;
 Memória Física (RAM) Instalada: 6,00 GB;
 Memória física total: 6,00 GB.**
 
-**quisitos para a execução da análise e apresentação das informações:
+**Requisitos para a execução da análise e apresentação das informações:
 Python versão 3.00+: Foram utilizadas as bibliotecas pandas e matplotlib.
 Foi utilizado também a aplicação web Jupyter Notebook**
 
