@@ -4,7 +4,7 @@
 # In[408]:
 
 
-#Análise de dados públicos - Comparação de candidaturas para prefeito e vereador canceladas entre 2016 e 2020.
+#Análise de dados públicos - Comparação de candidaturas para prefeito e vereador canceladas nas eleições municipais de 2016 e 2020 no Brasil.
 
 #Importando bibliotecas que serão usadas
 import pandas as pd 
